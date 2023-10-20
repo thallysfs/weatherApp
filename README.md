@@ -20,8 +20,8 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - [Flutter](https://flutter.dev/)
 
 ### 📦 Pacotes
-  http: ^1.1.0
-  intl: ^0.18.1
+  - http: ^1.1.0 <br />
+  - intl: ^0.18.1
 
 ## Autor
   Thallys Freitas  <br/>
