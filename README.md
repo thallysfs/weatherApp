@@ -1,6 +1,6 @@
 # Weather App
 
-<a href="https://reactnative.dev">📲 Flutter</a>
+<a href="https://flutter.dev/">📲 Flutter</a>
 </h1>
 <p align="center"> App informar as condições do clime, temperatura e tempo do dia. Atualizado pela API Open Weather</p>
 
