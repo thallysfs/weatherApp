@@ -2,7 +2,7 @@
 
 <a href="https://flutter.dev/">📲 Flutter</a>
 </h1>
-<p align="center"> App informar as condições do clime, temperatura e tempo do dia. Atualizado pela API Open Weather</p>
+<p align="center"> App informar as condições do clima, temperatura do dia. Atualizado pela API Open Weather</p>
 
 <h1 align="center">
   <img alt="WeatherDark" title="#DiarioAutista" src="./lib/assets/weather dark.png" />
